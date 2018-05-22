@@ -1,3 +1,3 @@
 # Git_Evens_RND
 
-Hiiiii
+Hi Refactored the instructions.
